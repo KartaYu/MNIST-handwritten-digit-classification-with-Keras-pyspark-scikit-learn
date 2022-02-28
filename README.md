@@ -10,7 +10,7 @@
 - Keras
 - Pyspark
 ### Pipeline
-![image]()
+![image](https://github.com/KartaYu/MNIST-handwritten-digit-classification-with-Keras-pyspark-scikit-learn/blob/main/Pic/pipeline.png)
 ### Model
 - ANN (Pyspark)
 - Random Forest (Pyspark)
@@ -18,4 +18,4 @@
 - ANN (Scikit-Learn)
 - CNN (Keras)
 ### Result
-![image]()
+![image](https://github.com/KartaYu/MNIST-handwritten-digit-classification-with-Keras-pyspark-scikit-learn/blob/main/Pic/result.png)
