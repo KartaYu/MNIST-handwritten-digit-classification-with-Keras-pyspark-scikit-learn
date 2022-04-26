@@ -1,4 +1,4 @@
-# MNIST handwritten digi classification with Keras & pyspark & scikit-learn
+# MNIST handwritten digit classification with Keras & pyspark & scikit-learn
 ### Environment
 - Ubuntu : 20.04
 - Hadoop : 2.6.4
