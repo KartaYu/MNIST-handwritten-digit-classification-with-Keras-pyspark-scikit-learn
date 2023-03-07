@@ -1,5 +1,5 @@
 # MNIST handwritten digit classification with Keras & pyspark & scikit-learn
-### briefly explain
+### Briefly explain
 - A lesson project of data mining for practicing pyspark framework and distributed computing
 ### Environment
 - Ubuntu : 20.04
